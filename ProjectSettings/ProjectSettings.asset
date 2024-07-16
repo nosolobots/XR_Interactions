@@ -160,7 +160,8 @@ PlayerSettings:
   androidMaxAspectRatio: 2.1
   androidMinAspectRatio: 1
   applicationIdentifier:
-    Standalone: com.Unity.Out-Of-Circulation
+    Android: com.DefaultCompany.XR_Interactions
+    Standalone: com.DefaultCompany.XR-Interactions
   buildNumber:
     Bratwurst: 0
     Standalone: 0
@@ -804,8 +805,8 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: XR_Interactions
-  metroPackageVersion: 
+  metroPackageName: XRInteractions
+  metroPackageVersion: 1.0.0.0
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
@@ -813,7 +814,7 @@ PlayerSettings:
   metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: XR_Interactions
   wsaImages: {}
-  metroTileShortName: 
+  metroTileShortName: XR_Interactions
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
